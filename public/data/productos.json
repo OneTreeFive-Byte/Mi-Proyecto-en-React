@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta Básica",
+    "price": 1500,
+    "image": "https://placehold.co/300x300/007bff/white?text=Camiseta",
+    "stock": 10,
+    "description": "Camiseta de algodón 100%, suave y cómoda."
+  },
+  {
+    "id": 2,
+    "name": "Zapatillas Running",
+    "price": 4500,
+    "image": "https://placehold.co/300x300/28a745/white?text=Zapatillas",
+    "stock": 5,
+    "description": "Zapatillas ligeras para correr."
+  },
+  {
+    "id": 3,
+    "name": "Mochila Urbana",
+    "price": 3000,
+    "image": "https://placehold.co/300x300/dc3545/white?text=Mochila",
+    "stock": 8,
+    "description": "Mochila resistente al agua, ideal para el día a día."
+  }
+]
